@@ -29,3 +29,11 @@
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/samar-farooqi
+
+ ## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
