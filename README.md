@@ -38,6 +38,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
+https://github-readme-stats.vercel.app/api?username=samarfarooqi786&show_icons=true&theme=tokyonight
+
 ## 📊 GitHub Statistics
 
 <p align="center">
