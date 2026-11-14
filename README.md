@@ -11,17 +11,6 @@
 - 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science.
 - 📚 Always eager to learn new technologies.
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-
 ## 🎯 Goals
 
 - Improve my programming fundamentals.
