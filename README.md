@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**samarfarooqi786/samarfarooqi786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Samar Farooqi 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">B.Tech Computer Science & Engineering Student</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Second-year B.Tech CSE student at Jamia Hamdard University.
+- 💻 Learning programming and problem-solving.
+- 🌱 Currently strengthening my skills in Data Structures and Algorithms.
+- 🤖 Interested in Artificial Intelligence, Machine Learning and Data Science.
+- 📚 Always eager to learn new technologies.
+
+## 🛠️ Languages & Technologies
+
+- C
+- C++
+- Java
+- Data Structures & Algorithms
+- Object-Oriented Programming
+
+## 🎯 Goals
+
+- Improve my programming fundamentals.
+- Practise DSA consistently.
+- Build practical projects.
+- Explore AI/ML and Software Development.
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/samar-farooqi
