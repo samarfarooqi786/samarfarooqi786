@@ -28,7 +28,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/samar-farooqi
+- LinkedIn: https://www.linkedin.com/in/samar-farooqi-cse
 
  ## 💻 Programming Languages
 
