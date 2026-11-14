@@ -37,15 +37,3 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
-
-https://github-readme-stats.vercel.app/api?username=samarfarooqi786&show_icons=true&theme=tokyonight
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarfarooqi786&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarfarooqi786&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
